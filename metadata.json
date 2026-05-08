@@ -1,0 +1,6 @@
+{
+  "name": "Nexlore",
+  "description": "Futuristic AI-powered cybersecurity platform for instant scan and detection of scams, fraudulent links, and social engineering threats.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
